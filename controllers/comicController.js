@@ -13,7 +13,7 @@ module.exports = function (bot) {
     Type
     /latest for the latest comic
     /random for a random comic
-    /n for the nth comic where n is a natural number`
+    132 for the comic number 132`
 
 
     bot.sendMessage(msg.chat.id, startMessage, {
