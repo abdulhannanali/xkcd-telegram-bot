@@ -1,0 +1,11 @@
+xkcd bots
+This will be a chat application.
+
+
+Interesting end points for this app
+
+/current - gives the current xkcd comic with a previos and random button
+/back - gives the previos xkcd comic
+/forward - gives the next xkcd comic
+/random - gives a random xkcd comic with previos and next button
+/comic 2332
