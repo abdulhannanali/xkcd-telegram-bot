@@ -1,7 +1,5 @@
 var TelegramBot = require("node-telegram-bot-api");
 
-require("./config")();
-
 
 
 var token = process.env.BOT_TOKEN;
